@@ -1,0 +1,86 @@
+#whole_body{
+    
+    margin-top: -8px;
+    margin-left: -8px;
+}
+body{
+    font-family: sans-serif;
+}
+#text{
+    background-color: wheat;
+    float: left;
+    padding: 94px;
+    padding-top: 90px;
+    height: 617px;
+    
+    
+}
+#text h4{
+    text-transform: uppercase;
+    font-family: monospace;
+    line-height: 1;
+    font-size: 18px;
+    padding-bottom: 35px;
+   
+}
+#text h6{
+    font-family: monospace;
+    font-size: 70px;
+    font-weight: lighter;
+    color: rgb(165, 71, 103);
+    margin-top: -2px;
+}
+#text h3{
+    text-transform: uppercase;
+    font-size: 70px;
+    font-family: monospace;
+    margin-top: -175px;
+    font-weight: lighter;
+}
+#para_2{
+    color:lightpink;
+    line-height: 1.5;
+    font-size: 15px;    
+    font-family: monospace; 
+    margin-top: -55px;
+}
+#para_1{
+    border-color:  rgb(165, 71, 103);
+    border-style: outset;
+    height: 23px;
+    float: left;
+    width: 25px;
+    border-radius: 19px;
+    margin-top: 27px;
+    margin-right: 9px;
+}
+#send input{
+    padding: 11px;
+    border-top-left-radius: 26px;
+    border-bottom-left-radius: 26px;
+    padding-left: 20px;
+    background-color: wheat;
+   
+}
+#send ::placeholder{
+    color:  rgb(165, 71, 103);
+}
+#send{
+    position: relative;
+}
+#send button{
+    background-color: lightcoral;
+    width: 75px;
+    border-radius: 49px;
+    height: 43px;
+    position: absolute;
+    border-style: none;
+    left: 292px;
+    color: white;
+    font-size: 30px;
+    
+}
+#image{
+    float: left;
+    
+}
